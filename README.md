@@ -170,8 +170,7 @@ Note: Low precision for Data Scientist reflects dataset limitations, not model f
 
 ### Clone Repository
 
-git clone https://github.com/sam9322/FUTURE_ML_03.git
-cd FUTURE_ML_03
+https://github.com/Khangulamgousamjat/Resume-Screening-System
 
 ### Create Virtual Environment
 
@@ -339,9 +338,9 @@ This system is designed as a decision support tool, not a decision maker. Key et
 samiksha
 Machine Learning Engineer
 
-LinkedIn: https://www.linkedin.com/in/samiksha-walbe
-GitHub: https://github.com/sam9322
-Email: samikshawalbe3516@gmail.com 
+LinkedIn: https://www.linkedin.com/in/gulamgous
+GitHub: https://github.com/khangulamgousamjat
+Email: gousk2004@gmail.com
 
 ---
 
@@ -352,3 +351,12 @@ MIT
 ---
 
 Built to make hiring faster, fairer, and more transparent.
+
+<div align="center">
+
+### Built with ❤️ by [Gous Khan](mailto:gousk2004@gmail.com)
+
+
+⭐ If you find this project valuable, please consider giving it a star! ⭐
+
+</div>
